@@ -1,0 +1,21 @@
+Declaration
+Value of the variable: 2	
+Value of the variable: 1	
+Value of the variable: 5	
+value of expression in ELSE: 1
+Value of the variable: 6	
+value of the loop: 1 expression value: 6
+value of the loop: 2 expression value: 6
+value of the loop: 3 expression value: 6
+value of the loop: 4 expression value: 6
+Print Expression 6
+Value of Log10(100) is 2.000000
+value of expression: 2
+Value of Log(16) is 2.772589
+value of expression: 2
+value of expression: 16
+Value of Sin(30) is 0.500001
+value of expression: 0
+
+Bigmod of 1252 ^ 121544 MOD 2345 is = 1121
+value of expression: 1121

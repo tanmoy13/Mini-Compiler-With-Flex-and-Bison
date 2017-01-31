@@ -1,0 +1,44 @@
+import mathematical.h
+import exchangeInfo.h
+
+main:
+{
+	INTEGER a,b,c;
+	a=2;
+	b=1;
+	c=5;
+	IF(b>a)
+	{
+		a+b;
+	}
+	ELSE
+	{
+		a-b;
+	}
+
+	SWITCH ( a )
+	{
+	CASE 1 :
+		a + b; BREAK;
+	+
+	CASE 2 :
+		b + c; BREAK;
+	+
+	CASE 3 : 
+		a + c; BREAK;
+	DEFAULT :
+		c + i; BREAK;
+	}
+
+	FOR (1<5)
+	{
+	a=b+c;
+	}
+	PF(a);
+	LOG10(100);
+	LOG(16);
+	2^4;
+	SIN(30);
+	BIGMOD(1252,121544,2345);
+}	
+
